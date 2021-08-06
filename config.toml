@@ -2,4 +2,4 @@ baseURL = 'https://ttanigaki.github.io/tuna-test2/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 publishDir = "docs"
-theme = 'ananke'
+theme = 'hugo-clarity'

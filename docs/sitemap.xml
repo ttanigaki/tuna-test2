@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://ttanigaki.github.io/tuna-test2/posts/my-first-post/</loc>
-    <lastmod>2021-08-06T10:35:50+09:00</lastmod>
-  </url><url>
-    <loc>https://ttanigaki.github.io/tuna-test2/</loc>
-    <lastmod>2021-08-06T10:35:50+09:00</lastmod>
-  </url><url>
-    <loc>https://ttanigaki.github.io/tuna-test2/posts/</loc>
-    <lastmod>2021-08-06T10:35:50+09:00</lastmod>
-  </url><url>
-    <loc>https://ttanigaki.github.io/tuna-test2/categories/</loc>
-  </url><url>
-    <loc>https://ttanigaki.github.io/tuna-test2/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://example.com/en/sitemap.xml</loc>
+    
+      <lastmod>2021-08-06T10:35:50+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://example.com/pt/sitemap.xml</loc>
+    
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
